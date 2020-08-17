@@ -1,0 +1,51 @@
+The VNP46A1 Top of atmosphere radiance is available https://ladsweb.modaps.eosdis.nasa.gov/. I could apply the boat detection algorithm on VNP46A1 to generate the vessel data for you this month. Are you still interested in these four region?
+
+ 
+
+Patagonia Shelf   h 10-13, v12-14,
+
+lower left lat: -58
+
+lower left lon: -77
+
+upper right lat: -32
+
+upper right lon: -43
+
+ 
+
+Central America     , h 07-10, v07-08
+
+lower left lat: 3
+
+lower left lon: -98
+
+upper right lat: 20
+
+upper right lon: -75
+
+ 
+
+South China Sea  , h28-30, v06-08
+
+lower left lat: -1
+
+lower left lon: 102
+
+upper right lat: 28
+
+upper right lon: 131
+
+ 
+
+Off Somalia  , h 21-23, v07-09
+
+lower left lat: -10
+
+lower left lon: 36
+
+upper right lat: 18
+
+upper right lon: 61
+
+ 
